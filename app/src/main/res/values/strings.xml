@@ -3,4 +3,6 @@
     <string name="bottom">Bottom</string>
     <string name="edittext">EditText</string>
     <string name="switch_one">Switch</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="togglebutton">ToggleButton</string>
 </resources>

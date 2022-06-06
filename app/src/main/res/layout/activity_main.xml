@@ -35,5 +35,17 @@
         android:text="@string/switch_one"
         android:textSize="40sp" />
 
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/checkbox" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/togglebutton" />
+
 
 </LinearLayout>
