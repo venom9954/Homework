@@ -26,13 +26,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/edittext"
-        android:textSize="30sp"/>
-    <Switch
+        android:textSize="35sp"/>
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/switch_one"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Switch"
-        android:textSize="30sp" />
-
+        android:text="@string/switch_one"
+        android:textSize="40sp" />
 
 
 </LinearLayout>
